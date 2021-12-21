@@ -12,5 +12,12 @@
     "thumbnail": "http://localhost:8080/uploads/bajodoblebobina.jpg",
     "timestamp": 1636856540133,
     "id": 2
+  },
+  {
+    "title": "Parlante Pionner Triaxial",
+    "price": "65000",
+    "thumbnail": "http://localhost:8080/uploads/parlantes.jpg",
+    "timestamp": 1640115948805,
+    "id": 3
   }
 ]
