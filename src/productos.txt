@@ -1,0 +1,16 @@
+[
+  {
+    "title": "Parlantes Pionner",
+    "price": "60000",
+    "thumbnail": "http://localhost:8080/uploads/parlantes.jpg",
+    "timestamp": 1636854280279,
+    "id": 1
+  },
+  {
+    "title": "Subwoofer Pioneer 12",
+    "price": "120000",
+    "thumbnail": "http://localhost:8080/uploads/bajodoblebobina.jpg",
+    "timestamp": 1636856540133,
+    "id": 2
+  }
+]
